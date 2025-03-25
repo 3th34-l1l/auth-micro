@@ -1,0 +1,11 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Other files you may not want to commit (optional)
+.DS_Store
